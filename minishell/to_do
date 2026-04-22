@@ -1,0 +1,2 @@
+<< 'ciao' non deve espandere dentro heredoc
+<< a cat non funziona mentre cat << a SI

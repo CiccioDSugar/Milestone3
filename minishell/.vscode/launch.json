@@ -1,0 +1,16 @@
+{
+	"configurations": [
+	{
+		"name": "(gdb) Launch",
+		"type": "cppdbg",
+		"request": "launch",
+		"program": "/nfs/homes/fzuccaro/Desktop/CommonCoreProjects/Milestone3/minishell/minishell",
+		"args": [],
+		"stopAtEntry": false,
+		"cwd": "${fileDirname}",
+		"environment": [],
+		"externalConsole": false,
+		"MIMode": "gdb",
+	}
+	]
+}
